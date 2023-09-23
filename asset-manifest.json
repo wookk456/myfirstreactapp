@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wookk456/react-first-app/static/css/main.c4002c11.css",
+    "main.js": "/wookk456/react-first-app/static/js/main.711c9a63.js",
+    "static/js/787.e0f5bf6e.chunk.js": "/wookk456/react-first-app/static/js/787.e0f5bf6e.chunk.js",
+    "index.html": "/wookk456/react-first-app/index.html",
+    "main.c4002c11.css.map": "/wookk456/react-first-app/static/css/main.c4002c11.css.map",
+    "main.711c9a63.js.map": "/wookk456/react-first-app/static/js/main.711c9a63.js.map",
+    "787.e0f5bf6e.chunk.js.map": "/wookk456/react-first-app/static/js/787.e0f5bf6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4002c11.css",
+    "static/js/main.711c9a63.js"
+  ]
+}
